@@ -1,4 +1,8 @@
 boooom
 booyah 
 This is a test change
+<<<<<<< HEAD
 new new
+=======
+new again
+>>>>>>> 8c5756fe61852bd5051400b84573df0c0bfb2076
